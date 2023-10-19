@@ -1,1 +1,3 @@
-# CNAM-Vierzon_USAL2D_scheduler
+# CNAM Vierzon
+# Module USAL2D
+# TP "scheduler"
